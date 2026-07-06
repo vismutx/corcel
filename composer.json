@@ -1,6 +1,9 @@
 {
-    "name": "jgrossi/corcel",
-    "replace": { "juniorgrossi/corcel": "self.version" },
+    "name": "vismutx/corcel",
+    "replace": {
+        "jgrossi/corcel": "self.version",
+        "juniorgrossi/corcel": "self.version"
+    },
     "description": "Use WordPress backend with Laravel or any PHP framework",
     "homepage": "http://github.com/corcel/corcel",
     "license": "MIT",
